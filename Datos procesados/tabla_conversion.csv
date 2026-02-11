@@ -1,0 +1,70 @@
+segmento,experiment_group,mean,count,variable
+<18,Control,0.463,41,Edad
+<18,No_experiment,0.346,81,Edad
+<18,Test,0.312,32,Edad
+18-30,Control,0.659,4121,Edad
+18-30,No_experiment,0.704,4570,Edad
+18-30,Test,0.723,4805,Edad
+31-45,Control,0.675,6347,Edad
+31-45,No_experiment,0.698,5189,Edad
+31-45,Test,0.703,7446,Edad
+46-60,Control,0.667,7320,Edad
+46-60,No_experiment,0.676,6489,Edad
+46-60,Test,0.685,8278,Edad
+61-75,Control,0.631,5081,Edad
+61-75,No_experiment,0.632,3156,Edad
+61-75,Test,0.677,5675,Edad
+76-90,Control,0.498,572,Edad
+76-90,No_experiment,0.612,304,Edad
+76-90,Test,0.603,672,Edad
+90+,Control,0.5,16,Edad
+90+,No_experiment,0.833,6,Edad
+90+,Test,0.579,19,Edad
+<1 año,Control,0.0,0,Antigüedad
+<1 año,No_experiment,0.0,0,Antigüedad
+<1 año,Test,0.0,0,Antigüedad
+1-3 años,Control,0.636,33,Antigüedad
+1-3 años,No_experiment,0.667,27,Antigüedad
+1-3 años,Test,0.762,42,Antigüedad
+3-5 años,Control,0.671,1944,Antigüedad
+3-5 años,No_experiment,0.7,1597,Antigüedad
+3-5 años,Test,0.691,2230,Antigüedad
+5-10 años,Control,0.662,8547,Antigüedad
+5-10 años,No_experiment,0.69,7438,Antigüedad
+5-10 años,Test,0.703,10022,Antigüedad
+10-20 años,Control,0.648,9228,Antigüedad
+10-20 años,No_experiment,0.663,7776,Antigüedad
+10-20 años,Test,0.68,10454,Antigüedad
+20+ años,Control,0.652,3775,Antigüedad
+20+ años,No_experiment,0.691,3269,Antigüedad
+20+ años,Test,0.7,4213,Antigüedad
+<27K,Control,0.652,976,Balance
+<27K,No_experiment,0.676,4198,Balance
+<27K,Test,0.693,1225,Balance
+27-37K,Control,0.658,3929,Balance
+27-37K,No_experiment,0.697,2461,Balance
+27-37K,Test,0.7,4540,Balance
+37-63K,Control,0.654,6369,Balance
+37-63K,No_experiment,0.676,4171,Balance
+37-63K,Test,0.687,7272,Balance
+63-137K,Control,0.648,6223,Balance
+63-137K,No_experiment,0.676,4462,Balance
+63-137K,Test,0.686,7061,Balance
+137-320K,Control,0.651,3635,Balance
+137-320K,No_experiment,0.672,2837,Balance
+137-320K,Test,0.69,4192,Balance
++320K,Control,0.687,2395,Balance
++320K,No_experiment,0.699,1978,Balance
++320K,Test,0.721,2671,Balance
+0-2,Control,0.0,0,Logins
+0-2,No_experiment,0.664,5947,Logins
+0-2,Test,0.0,0,Logins
+3-5,Control,0.641,10351,Logins
+3-5,No_experiment,0.682,7268,Logins
+3-5,Test,0.678,12098,Logins
+6-8,Control,0.663,7317,Logins
+6-8,No_experiment,0.692,6892,Logins
+6-8,Test,0.696,8372,Logins
+9-12,Control,0.673,5859,Logins
+9-12,No_experiment,0.0,0,Logins
+9-12,Test,0.716,6491,Logins
