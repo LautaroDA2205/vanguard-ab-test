@@ -1,49 +1,60 @@
-📊 Vanguard A/B Test – Evaluación del Rediseño
+📊 VANGUARD A/B TEST - EVALUACIÓN DE REDISEÑO
+
+
+
 📌 Objetivo
+
 
 Evaluar si el nuevo diseño de la interfaz (Grupo Test) mejora la tasa de conversión frente al diseño anterior (Grupo Control), y determinar si dicha mejora es estadística y económicamente relevante.
 
+
+
 🧪 Metodología
 
-Periodo analizado: 15/03/2017 – 20/06/2017
+- Periodo analizado: 15/03/2017 – 20/06/2017
 
-Métricas principales:
+- Métricas principales:
 
-Tasa de conversión
+  . Tasa de conversión
 
-Tasa de error
+  . Tasa de error
 
-Número medio de pasos
+  . Número medio de pasos
 
-Pruebas aplicadas:
+- Pruebas aplicadas:
 
-Test de proporciones (conversión y error)
+  . Test de proporciones (conversión y error)
 
-t-test (número de pasos)
+  . t-test (número de pasos)
 
-Nivel de significancia: α = 0.05
+  . Nivel de significancia: α = 0.05
 
-Análisis complementario por segmentos: edad, antigüedad, saldo y frecuencia de login.
+  . Análisis complementario por segmentos: edad, antigüedad, saldo y frecuencia de login.
+
+
 
 📈 Resultados clave
 
-Conversión
 
-Test: 69.29%
+- Conversión
 
-Control: 65.59%
+  . Test: 69.29%
 
-Incremento: +3.7 p.p. (estadísticamente significativo)
+  . Control: 65.59%
 
-Tasa de error
+  . Incremento: +3.7 p.p. (estadísticamente significativo)
 
-Reducción significativa en el grupo Test.
+- Tasa de error
 
-Número de pasos
+  . Reducción significativa en el grupo Test.
 
-Aumento leve en Test, sin impacto negativo en conversión.
+- Número de pasos
+
+  . Aumento leve en Test, sin impacto negativo en conversión.
 
 El efecto positivo del rediseño es consistente en la mayoría de segmentos analizados.
+
+
 
 💰 Evaluación económica
 
@@ -51,15 +62,19 @@ Aunque la mejora es estadísticamente significativa, el incremento observado (~3
 
 Se recomienda complementar con un análisis financiero antes de una implementación definitiva.
 
+
+
 ⚠️ Limitaciones
 
-Posibles factores externos no controlados (estacionalidad, campañas).
+- Posibles factores externos no controlados (estacionalidad, campañas).
 
-Algunos segmentos con muestras pequeñas.
+- Algunos segmentos con muestras pequeñas.
 
-No se evaluaron métricas de largo plazo (retención, LTV, satisfacción).
+- No se evaluaron métricas de largo plazo (retención, LTV, satisfacción).
 
-No se dispone de datos detallados de costos de implementación.
+- No se dispone de datos detallados de costos de implementación.
+
+
 
 🎯 Conclusión
 
