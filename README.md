@@ -1,14 +1,14 @@
-📊 VANGUARD A/B TEST - EVALUACIÓN DE REDISEÑO
+# 📊 VANGUARD A/B TEST - EVALUACIÓN DE REDISEÑO
 
---
+---
 
-📌 Objetivo
+## 📌 Objetivo
 
 Evaluar si el nuevo diseño de la interfaz (Grupo Test) mejora la tasa de conversión frente al diseño anterior (Grupo Control), y determinar si dicha mejora es estadística y económicamente relevante.
 
---
+---
 
-🧪 Metodología
+## 🧪 Metodología
 
 - Periodo analizado: 15/03/2017 – 20/06/2017
 
@@ -30,9 +30,9 @@ Evaluar si el nuevo diseño de la interfaz (Grupo Test) mejora la tasa de conver
 
   . Análisis complementario por segmentos: edad, antigüedad, saldo y frecuencia de login.
 
---
+---
 
-📈 Resultados clave
+## 📈 Resultados clave
 
 
 - Conversión
@@ -53,17 +53,17 @@ Evaluar si el nuevo diseño de la interfaz (Grupo Test) mejora la tasa de conver
 
 El efecto positivo del rediseño es consistente en la mayoría de segmentos analizados.
 
---
+---
 
-💰 Evaluación económica
+## 💰 Evaluación económica
 
 Aunque la mejora es estadísticamente significativa, el incremento observado (~3.7 p.p.) no alcanza el umbral de costo-efectividad del 5% definido por el negocio.
 
 Se recomienda complementar con un análisis financiero antes de una implementación definitiva.
 
---
+---
 
-⚠️ Limitaciones
+## ⚠️ Limitaciones
 
 - Posibles factores externos no controlados (estacionalidad, campañas).
 
@@ -73,9 +73,9 @@ Se recomienda complementar con un análisis financiero antes de una implementaci
 
 - No se dispone de datos detallados de costos de implementación.
 
---
+---
 
-🎯 Conclusión
+## 🎯 Conclusión
 
 El rediseño mejora significativamente la conversión y reduce errores, mostrando un impacto positivo y consistente.
 No obstante, desde una perspectiva económica, requiere validación adicional antes de su despliegue global.
