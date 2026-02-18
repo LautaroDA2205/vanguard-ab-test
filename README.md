@@ -1,6 +1,10 @@
 📊 A/B Testing y Análisis de Conversión
 📌 Descripción del Proyecto
 
+Este proyecto simula el análisis de un banco digital que evalúa un rediseño en su proceso de onboarding online.
+El objetivo es medir si la nueva interfaz mejora la conversión de usuarios que inician el proceso de alta y reduce errores durante el recorrido digital.
+La conversión se define como la finalización completa del proceso, mientras que el error representa abandonos o fallos en pasos críticos del funnel.
+
 Análisis end-to-end de un experimento A/B para evaluar el impacto de un nuevo diseño de interfaz sobre la conversión de usuarios.
 
 El proyecto incluye:
@@ -44,6 +48,7 @@ Conclusión
 
 El nuevo diseño mejora significativamente la conversión y reduce errores.
 Sin embargo, no alcanza el umbral económico definido (+5%) para justificar su implementación inmediata.
+Se define un umbral mínimo de +5% de mejora en conversión para cubrir costes de implementación, riesgo operacional y asegurar un retorno de inversión positivo en el corto plazo.
 
 
 🧱 Estructura del Proyecto
@@ -71,3 +76,16 @@ Diseño y validación de experimentos
 Análisis de comportamiento de clientes
 
 Enfoque orientado a decisión de negocio
+
+
+🔬 Validación Estadística
+
+- Se validó el balance del experimento entre grupo Control y Test.
+
+- Se aplicó un Z-test de proporciones para comparar tasas de conversión.
+
+- Se verificaron supuestos de tamaño muestral suficiente para aproximación normal.
+
+- Se calculó intervalo de confianza del 95% para la diferencia de proporciones.
+
+- Nivel de significancia: α = 0.05.
