@@ -56,7 +56,11 @@ Métrica          Control	        Test	        Impacto
 
 
 Conversión	     65.59%	          69.29%	      +3.7 p.p.
+
+
 Error	           34.41%	          30.71%	      −3.7 p.p.
+
+
 Pasos promedio	  4.18	           4.04	     No significativo
 
 
