@@ -1,81 +1,73 @@
-# 📊 VANGUARD A/B TEST - EVALUACIÓN DE REDISEÑO
+📊 A/B Testing y Análisis de Conversión
+📌 Descripción del Proyecto
 
----
+Análisis end-to-end de un experimento A/B para evaluar el impacto de un nuevo diseño de interfaz sobre la conversión de usuarios.
 
-## 📌 Objetivo
+El proyecto incluye:
 
-Evaluar si el nuevo diseño de la interfaz (Grupo Test) mejora la tasa de conversión frente al diseño anterior (Grupo Control), y determinar si dicha mejora es estadística y económicamente relevante.
+- Limpieza e integración de datos
 
----
+- Perfilado de clientes
 
-## 🧪 Metodología
+- Análisis de funnel
 
-- Periodo analizado: 15/03/2017 – 20/06/2017
+- Test estadístico
 
-- Métricas principales:
+- Evaluación de impacto en negocio
 
-  . Tasa de conversión
-
-  . Tasa de error
-
-  . Número medio de pasos
-
-- Pruebas aplicadas:
-
-  . Test de proporciones (conversión y error)
-
-  . t-test (número de pasos)
-
-  . Nivel de significancia: α = 0.05
-
-  . Análisis complementario por segmentos: edad, antigüedad, saldo y frecuencia de login.
-
----
-
-## 📈 Resultados clave
+-Dashboard ejecutivo en Tableau
 
 
-- Conversión
+🎯 Objetivo
 
-  . Test: 69.29%
+Determinar si el nuevo diseño:
 
-  . Control: 65.59%
+- Incrementa la tasa de conversión
 
-  . Incremento: +3.7 p.p. (estadísticamente significativo)
+- Reduce la tasa de error
 
-- Tasa de error
+- Mejora la eficiencia del recorrido del usuario
 
-  . Reducción significativa en el grupo Test.
 
-- Número de pasos
+📈 Resultados Principales
 
-  . Aumento leve en Test, sin impacto negativo en conversión.
+Métrica	Control	Test	Impacto
 
-El efecto positivo del rediseño es consistente en la mayoría de segmentos analizados.
+Conversión	              65.59%	69.29%	+3.7 p.p.
+Error	                    34.41%	30.71%	−3.7 p.p.
+Pasos promedio	          4.18	4.04	No significativo
 
----
+Nivel de significancia:       α = 0.05
+Test aplicado:             Z-test de proporciones
 
-## 💰 Evaluación económica
+Conclusión
 
-Aunque la mejora es estadísticamente significativa, el incremento observado (~3.7 p.p.) no alcanza el umbral de costo-efectividad del 5% definido por el negocio.
+El nuevo diseño mejora significativamente la conversión y reduce errores.
+Sin embargo, no alcanza el umbral económico definido (+5%) para justificar su implementación inmediata.
 
-Se recomienda complementar con un análisis financiero antes de una implementación definitiva.
 
----
+🧱 Estructura del Proyecto
+---------------------------
+notebooks/
+data/
+src/
+dashboards/
+---------------------------
 
-## ⚠️ Limitaciones
+El flujo incluye preparación de datos, integración, análisis exploratorio, funnel, segmentación y A/B test final.
 
-- Posibles factores externos no controlados (estacionalidad, campañas).
 
-- Algunos segmentos con muestras pequeñas.
+🛠 Tecnologías
 
-- No se evaluaron métricas de largo plazo (retención, LTV, satisfacción).
+Python · Pandas · NumPy · SciPy · Statsmodels · Matplotlib · Tableau
 
-- No se dispone de datos detallados de costos de implementación.
 
----
+🔎 Lo que demuestra este proyecto
 
-## 🎯 Conclusión
+Construcción de pipeline de datos
 
-El rediseño mejora significativamente la conversión y reduce errores, mostrando un impacto positivo y consistente.
-No obstante, desde una perspectiva económica, requiere validación adicional antes de su despliegue global.
+Diseño y validación de experimentos
+
+Análisis de comportamiento de clientes
+
+Enfoque orientado a decisión de negocio
